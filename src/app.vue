@@ -52,7 +52,7 @@ export default {
   position: relative;
 }
 #entry-wrapper .entry-logo {
-  background: url(https://s3plus.meituan.net/v1/mss_7e425c4d9dcb4bb4918bbfa2779e6de1/mpack/rms-portal/cs-entry-logo-small_7815393094774808b7aeb13ab5519fef.png) no-repeat 0 0;
+  background: url(^) no-repeat 0 0;
   width: 100px;
   height: 100px;
   margin: 0 auto;
